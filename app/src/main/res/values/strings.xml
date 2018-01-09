@@ -1,0 +1,22 @@
+<resources>
+    <string name="tab_text_1">List</string>
+    <string name="tab_text_2">People</string>
+    <string name="app_name">Demogorgon</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="activity">Main Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="d1">Eleven was kidnapped and raised in Hawkins National Laboratory where she was experimented on for her inherited psychokinetic abilities. After escaping from the lab, she was found by Mike, Lucas, and Dustin. Upon discovering her abilities, Mike believed that she could help find Will, their missing friend. It was eventually revealed that, in a lab experiment, she made contact with a creature from another dimension, accidentally opening an inter-dimensional gateway. Eleven eventually faced and destroyed this monster in a showdown at Hawkins Middle School, mysteriously vanishing in the process.</string>
+    <string name="d2">First, concerned with simple teenage high school issues, her world is turned upside down when her best friend vanishes, encouraging her to seek out the truth. Still grieving for the death of her best friend, she and Jonathan took on a journey on themselves to expose Hawkins National Laboratory as a threat. Eventually, she helps Jonathan and his mother in removing Will Byers from the Mind Flayer.</string>
+    <string name="d3">The financially poor single mother of Will and Jonathan Byers, Joyce works as a retail clerk and relies on help from her eldest to make ends meet. After Will mysteriously disappeared, Joyce was certain that he was communicating with her through the lights in her house. Despite everyone treating her as if she was having a mental breakdown, Joyce refused to believe that Will was dead, even after his alleged corpse was found.</string>
+    <string name="n1">Eleven</string>
+    <string name="n2">Nancy</string>
+    <string name="n3">Joyce</string>
+    <string name="str">List</string>
+    <string name="toast">Will can only be saved by the person assigned</string>
+    <string-array name="choices">
+        <item>Eleven</item>
+        <item>Nancy</item>
+        <item>Joyce</item>
+    </string-array>
+
+</resources>
